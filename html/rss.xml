@@ -1,0 +1,21 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Based Net</title>
+  <link>https://basednet.org</link>
+  <description>Only Based websites. No ads, no tracking, nothing but based websites.</description>
+  <item>
+    <title>Top Ten Most Based Websites of All Time</title>
+    <link>https://basednet.org/</link>
+    <rssapp-wall id="vAuY9cAaLtmEbJyS"></rssapp-wall><script src="https://widget.rss.app/v1/wall.js" type="text/javascript" async></script>
+    <description>View the top websites here</description>
+  </item>
+  <item>
+    <title>King of The Hill - Newest Entries</title>
+    <link>https://basednet.org/KOTH.php</link>
+    <description></description>
+  </item>
+</channel>
+
+</rss> 

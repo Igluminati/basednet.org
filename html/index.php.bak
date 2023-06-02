@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<meta charse="UTC-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./style.css">
+        <title>Based Net</title>
+        <meta name="description" content="Only Based websites. No ads, no tracking, nothing but based websites.">
+    </head>
+    <body>
+        <div class="banner">
+            <h1>Based Net</h1>
+            <hr/>
+        </div>
+	<p>Only Based websites. No ads, no tracking, nothing but based websites.</p>
+        <p><i>Tags:
+        <a href="@based.php">Based</a>, <a href="@cucked.html">Cucked</a>
+        </p></i>
+        <h2>Top 10 Most Based Websites</h2>
+        <ul>
+        <li><a href="https://4chan.org/">4chan</a>
+        </ul>
+        <h2>About this site</h2>
+        <p>Founded to provide the voice of the unfiltered internet</p>
+
+        <h3>Add a website of your choice here:</h3>
+        <a href="submit.php">submit</a>
+    </body>
+</html>
